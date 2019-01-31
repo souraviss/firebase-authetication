@@ -1,0 +1,11 @@
+C:\Abhishek\WEbFirebaseAuth\WEbFirebaseAuth\bin\Debug\netcoreapp2.0\WEbFirebaseAuth.deps.json
+C:\Abhishek\WEbFirebaseAuth\WEbFirebaseAuth\bin\Debug\netcoreapp2.0\WEbFirebaseAuth.runtimeconfig.json
+C:\Abhishek\WEbFirebaseAuth\WEbFirebaseAuth\bin\Debug\netcoreapp2.0\WEbFirebaseAuth.runtimeconfig.dev.json
+C:\Abhishek\WEbFirebaseAuth\WEbFirebaseAuth\bin\Debug\netcoreapp2.0\WEbFirebaseAuth.dll
+C:\Abhishek\WEbFirebaseAuth\WEbFirebaseAuth\bin\Debug\netcoreapp2.0\WEbFirebaseAuth.pdb
+C:\Abhishek\WEbFirebaseAuth\WEbFirebaseAuth\obj\Debug\netcoreapp2.0\WEbFirebaseAuth.csprojAssemblyReference.cache
+C:\Abhishek\WEbFirebaseAuth\WEbFirebaseAuth\obj\Debug\netcoreapp2.0\WEbFirebaseAuth.csproj.CoreCompileInputs.cache
+C:\Abhishek\WEbFirebaseAuth\WEbFirebaseAuth\obj\Debug\netcoreapp2.0\WEbFirebaseAuth.AssemblyInfoInputs.cache
+C:\Abhishek\WEbFirebaseAuth\WEbFirebaseAuth\obj\Debug\netcoreapp2.0\WEbFirebaseAuth.AssemblyInfo.cs
+C:\Abhishek\WEbFirebaseAuth\WEbFirebaseAuth\obj\Debug\netcoreapp2.0\WEbFirebaseAuth.dll
+C:\Abhishek\WEbFirebaseAuth\WEbFirebaseAuth\obj\Debug\netcoreapp2.0\WEbFirebaseAuth.pdb

@@ -1,0 +1,19 @@
+C:\Abhishek\WEbFirebaseAuth\WEbFirebaseAuth\bin\Release\netcoreapp2.0\WEbFirebaseAuth.deps.json
+C:\Abhishek\WEbFirebaseAuth\WEbFirebaseAuth\bin\Release\netcoreapp2.0\WEbFirebaseAuth.runtimeconfig.json
+C:\Abhishek\WEbFirebaseAuth\WEbFirebaseAuth\bin\Release\netcoreapp2.0\WEbFirebaseAuth.runtimeconfig.dev.json
+C:\Abhishek\WEbFirebaseAuth\WEbFirebaseAuth\bin\Release\netcoreapp2.0\WEbFirebaseAuth.dll
+C:\Abhishek\WEbFirebaseAuth\WEbFirebaseAuth\bin\Release\netcoreapp2.0\WEbFirebaseAuth.pdb
+C:\Abhishek\WEbFirebaseAuth\WEbFirebaseAuth\obj\Release\netcoreapp2.0\WEbFirebaseAuth.csprojAssemblyReference.cache
+C:\Abhishek\WEbFirebaseAuth\WEbFirebaseAuth\obj\Release\netcoreapp2.0\WEbFirebaseAuth.csproj.CoreCompileInputs.cache
+C:\Abhishek\WEbFirebaseAuth\WEbFirebaseAuth\obj\Release\netcoreapp2.0\WEbFirebaseAuth.AssemblyInfoInputs.cache
+C:\Abhishek\WEbFirebaseAuth\WEbFirebaseAuth\obj\Release\netcoreapp2.0\WEbFirebaseAuth.AssemblyInfo.cs
+C:\Abhishek\WEbFirebaseAuth\WEbFirebaseAuth\obj\Release\netcoreapp2.0\WEbFirebaseAuth.dll
+C:\Abhishek\WEbFirebaseAuth\WEbFirebaseAuth\obj\Release\netcoreapp2.0\WEbFirebaseAuth.pdb
+D:\Magic Mind Project\WEbFirebaseAuth\WEbFirebaseAuth\obj\Release\netcoreapp2.0\WEbFirebaseAuth.csprojAssemblyReference.cache
+D:\Magic Mind Project\WEbFirebaseAuth\WEbFirebaseAuth\obj\Release\netcoreapp2.0\WEbFirebaseAuth.csproj.CoreCompileInputs.cache
+D:\Magic Mind Project\WEbFirebaseAuth\WEbFirebaseAuth\obj\Release\netcoreapp2.0\WEbFirebaseAuth.RazorAssemblyInfo.cache
+D:\Magic Mind Project\WEbFirebaseAuth\WEbFirebaseAuth\obj\Release\netcoreapp2.0\WEbFirebaseAuth.RazorAssemblyInfo.cs
+D:\Magic Mind Project\WEbFirebaseAuth\WEbFirebaseAuth\obj\Release\netcoreapp2.0\WEbFirebaseAuth.AssemblyInfoInputs.cache
+D:\Magic Mind Project\WEbFirebaseAuth\WEbFirebaseAuth\obj\Release\netcoreapp2.0\WEbFirebaseAuth.AssemblyInfo.cs
+D:\Magic Mind Project\WEbFirebaseAuth\WEbFirebaseAuth\obj\Release\netcoreapp2.0\WEbFirebaseAuth.dll
+D:\Magic Mind Project\WEbFirebaseAuth\WEbFirebaseAuth\obj\Release\netcoreapp2.0\WEbFirebaseAuth.pdb

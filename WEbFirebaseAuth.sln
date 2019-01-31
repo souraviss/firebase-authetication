@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WEbFirebaseAuth", "WEbFirebaseAuth\WEbFirebaseAuth.csproj", "{449A9793-EF58-42FF-B71E-538032E8A19B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{449A9793-EF58-42FF-B71E-538032E8A19B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{449A9793-EF58-42FF-B71E-538032E8A19B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{449A9793-EF58-42FF-B71E-538032E8A19B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{449A9793-EF58-42FF-B71E-538032E8A19B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD7938CB-F60E-48B7-AC5F-7DB9322BEDEF}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://p11mm.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = WEbFirebaseAuth\\WEbFirebaseAuth.csproj
+		SccProjectName1 = WEbFirebaseAuth
+		SccLocalPath1 = WEbFirebaseAuth
+	EndGlobalSection
+EndGlobal
